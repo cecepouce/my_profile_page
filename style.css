@@ -90,15 +90,18 @@ body {
 }
 
 #insta {
-  color:#C4309D
+  color:#C4309D;
+  font-size: 60px;
 }
 
 #github {
-  color:#000000
+  color:#000000;
+  font-size: 60px;
 }
 
 #facebook {
-  color:#1977F2
+  color:#1977F2;
+  font-size: 60px;
 }
 
 @media (max-width: 960px) {
